@@ -1,3 +1,2 @@
 # asdp-info
-lamar kerja
-selamat datang di github
+beberapa file yang ada di dalam ini masih dalam bentuk prototype
